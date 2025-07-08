@@ -1,0 +1,52 @@
+1] Install python 
+
+wget https://www.python.org/ftp/python/VERSION/python-VERSION-amd64.exe
+
+or 
+
+winget install Python.Python.3.12
+
+
+
+2] Check Version
+
+python --version
+
+
+
+
+
+3] Check pip version
+
+python --version
+pip --version
+
+4]if no pip
+
+python get-pip.py
+
+
+5]Install Flask
+
+
+pip install Flask
+
+
+
+
+6]Check flask
+
+pip show Flask
+
+
+
+7] Direct to the folder
+
+eg:        "cd C:\Users\tharu\Downloads\farm2home1\"
+   
+8] python model.py
+  
+
+9] python app.py
+
+ Now click the local host link "ctr+click"
